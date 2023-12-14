@@ -41,6 +41,6 @@ Certifique-se de ter essas ferramentas instaladas em sua máquina antes de inici
 Para começar, siga estas etapas simples:
 
 1. Clone este repositório em sua máquina local usando o comando:
-git clone [https://github.com/seu-usuario/curso-csharp-paralelismo.git](https://github.com/Elizeu-Santos/ByteBank.git)
+git clone https://github.com/Elizeu-Santos/ByteBank.git
 
 2. Abra o projeto no seu ambiente de desenvolvimento preferido (recomendamos o Visual Studio).
